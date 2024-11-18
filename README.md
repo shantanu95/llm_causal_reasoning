@@ -11,7 +11,7 @@ Khurram Yamin*, Shantanu Gupta*, Gaurav Ghosal, Zachary Lipton, Bryan Wilder
 ### Code and Datasets
 
 
-The `synthetic_experiment/README.md` file explains the code for the experiments with synthetic data.
+The `synthetic_experiment/README.md` file explains the code for the experiments with synthetic data. We are currently working on updating the syntehtic narratives to better align them with the objectives of our paper.
 
 The `real_world_graphs/README.md` file explains the code for the experiments with semi-synthetic
 and real-world data.
