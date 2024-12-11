@@ -1,6 +1,6 @@
 All the testing code is in the synthetic_experiments notebook. 
 
-All files that start with a c are experiments using GPT-4. All files that start with a d are experiments using Claude 3.5 Sonnet.
+All files that start with a nc are experiments using GPT-4. All files that start with a nd are experiments using Claude 3.5 Sonnet.
 
 abbreviation guide
 
